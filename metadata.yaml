@@ -1,0 +1,40 @@
+_repo: Project-de-restauration-de-Notre-Dame-de-Paris_18920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lassus, Jean Baptiste Antoine
+    alias: Lassus, Jean-Baptiste
+    birthdate: 1807
+    deathdate: 1857
+    gutenberg_agent_id: '8332'
+    url: http://www.gutenberg.org/2009/agents/8332
+    wikipedia: http://fr.wikipedia.org/wiki/Jean-Baptiste-Antoine_Lassus
+  - agent_name: Viollet-le-Duc, Eugène-Emmanuel
+    aliases:
+    - Viollet-le-Duc, Eugene-Emmanuel
+    - Viollet-le-Duc, E. (Eugène)
+    birthdate: 1814
+    deathdate: 1879
+    gutenberg_agent_id: '8223'
+    url: http://www.gutenberg.org/2009/agents/8223
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+    - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2006-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18920'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture'
+title: Projet de restauration de Notre-Dame de Paris
+url: http://www.gutenberg.org/ebooks/18920
